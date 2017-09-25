@@ -1,0 +1,11 @@
+{
+  "name": "rdfquery",
+  "version": "0.0.1",
+  "dependencies": {
+    "rdflib": "^0.15.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.25",
+    "nodeunit": "^0.11.1"
+  }
+}
